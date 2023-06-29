@@ -1,0 +1,9 @@
+nav {
+    background-color: #802c6e;
+}
+.badge-Cart {
+    position: absolute;
+    top: -11px;
+    right: -15px;
+    background-color: aqua;
+}

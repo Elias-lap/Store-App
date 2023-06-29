@@ -1,0 +1,11 @@
+.image-item{
+    width: 30%;
+    float: left;
+}
+.budyItem {
+    width: 70%;
+    float: left;
+}
+.price , .caption{
+    color: #802c6e;
+}
